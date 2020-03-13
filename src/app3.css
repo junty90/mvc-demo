@@ -1,0 +1,15 @@
+#app3 {
+    display: flex;
+    align-items: center;
+}
+#app3 .square {
+    border: 1px solid red;
+    margin-left: 15px;
+    width: 5vw;
+    height: 5vw;
+    transition: linear 0.5s;
+}
+
+#app3 .action {
+    transform: translateX(20vw);
+}
